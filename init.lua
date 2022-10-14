@@ -87,8 +87,9 @@ map("n", "<A-k>", "yyp", opts)
 -- 进入编辑
 map("n", "u", "i", opts)
 
--- 撤销
+-- 撤销&重做
 map("n", "z", "u", opts)
+map("n", "<S-z>", "<C-r>", opts)
 
 -- 附加命令
 map("n", "h", "z", opts)
