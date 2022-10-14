@@ -8,8 +8,8 @@ vim.opt.encoding = 'utf-8'
 vim.opt.fileencoding = 'utf-8'
 
 -- 光标距离上下行位置
-vim.opt.scrolloff = 10
-vim.opt.sidescrolloff = 10
+vim.opt.scrolloff = 12
+vim.opt.sidescrolloff = 12
 
 -- 打开搜索高亮显示和及时显示
 vim.opt.hlsearch = true

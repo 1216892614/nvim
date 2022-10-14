@@ -1,2 +1,2 @@
 # nvim
-nvim setting
+base setting and keymaps
